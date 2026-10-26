@@ -2,7 +2,7 @@
 
 Sitio web estático (solo HTML, sin estilos ni frameworks) que presenta en tres vistas independientes la bitácora técnica del día **03/09/2026** de la ficha **3381732**, Tecnología en Análisis y Desarrollo de Software (SENA), y la auditoría de pares aplicada a esa bitácora. Cada vista reproduce fielmente uno de los libros de Excel validados.
 
-**Sitio publicado (GitHub Pages):** <>
+**Sitio publicado (GitHub Pages):** <index.html>
 **Repositorio:** <https://github.com/AgredoKaox/BITACORA-HTML.git>
 
 ## ¿De qué trata el trabajo?
@@ -12,10 +12,10 @@ La bitácora registra, ID por ID, qué se hizo en la jornada, con qué resultado
 ## Estructura del proyecto
 
 | Archivo | Vista | Contenido | Responsable |
-|---|---|---|---|
+
 | `index.html` | Información | Programa de formación, competencia, aprendiz autor, ficha y periodo | Kevin Santiago Triana Tarazaona |
 | `trazabilidad.html` | Trazabilidad | Tabla con ID, timestamp, autoría, actividad, evidencia, impedimentos y plan de acción | Juan Sebastián Agredo García |
-| `auditoria.html` | Auditoría | Datos de la inspección y matriz de criterios (cumple, hallazgo, acción correctiva) | Julio Cesar Barajas Poveda |
+| `reglas.html` | reglas | Datos de la inspección y matriz de criterios (cumple, hallazgo, acción correctiva) | Julio Cesar Barajas Poveda |
 | `acuerdo_trabajo.md` | Documentación | Acuerdo, reglas y planeación del equipo | Equipo |
 
 Las tres vistas son archivos HTML independientes y se conectan con un menú de navegación (`<nav>` con enlaces `<a>`), de modo que se puede pasar de una a otra sin usar el botón de retroceso del navegador.
@@ -52,4 +52,4 @@ Las tres vistas son archivos HTML independientes y se conectan con un menú de n
 
 - Juan Sebastián Agredo García
 - Kevin Santiago Triana Tarazaona
-- Julio Cesar Barajas Poveda
+- Julio Cesar Barajas
