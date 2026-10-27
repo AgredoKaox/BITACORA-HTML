@@ -2,7 +2,7 @@
 
 Sitio web estático (solo HTML, sin estilos ni frameworks) que presenta en tres vistas independientes la bitácora técnica del día **03/09/2026** de la ficha **3381732**, Tecnología en Análisis y Desarrollo de Software (SENA), y la auditoría de pares aplicada a esa bitácora. Cada vista reproduce fielmente uno de los libros de Excel validados.
 
-**Sitio publicado (GitHub Pages):** <index.html>
+**Sitio publicado (GitHub Pages):** <https://agredokaox.github.io/BITACORA-HTML/>
 **Repositorio:** <https://github.com/AgredoKaox/BITACORA-HTML.git>
 
 ## ¿De qué trata el trabajo?
